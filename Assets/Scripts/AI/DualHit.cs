@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Hit : MonoBehaviour {
+public class DualHit : MonoBehaviour {
 	int cnt;
 	// Use this for initialization
 	void Start () {
