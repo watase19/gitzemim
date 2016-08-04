@@ -36,5 +36,7 @@ public class tama : MonoBehaviour {
 	}
 	void OnCollisionEnter(Collision other){
 		ballflgy = 1 ;
+		Instantiate(HitEF)
 	}
+
 }
